@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.925492, 46.510357]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADAPOST PRIMĂRIA MUNICIPIULUI BACĂU - Serviciul de Gestionare al Câinilor fără Stăpân",
+        "address": "Municipiul Bacău, Str. Republicii, nr. 181",
+        "contact": {
+          "name": "Dinu Mihai Pancescu",
+          "phone": "0234547427"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/groups/335291303487153/posts/512143545801927/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Luni - Vineri: 10.00 - 12.00",
+        "capacity": 1437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.768181, 46.266931]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADAPOST CONSILIUL LOCAL ONEȘTI - S.C. Domeniul Public și Privat S.A.",
+        "address": "Municipiul Onești, Calea Bacăului nr. 10",
+        "contact": {
+          "name": "Calin Ochian Mihaela",
+          "phone": "0770362501",
+          "email": "cainifarastapan@dpponesti.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "https://www.facebook.com/Adapost.caini.Onesti/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Luni - Vineri: 10.00 - 14.00",
+        "capacity": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.529419, 46.491033]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADAPOST PRIMăRIA MUNICIPIULUI MOINEȘTI",
+        "address": "Municipiul Moinești, str. Păcurari fn",
+        "contact": {
+          "name": "Agache Iustin Ionel",
+          "phone": "0234363680"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "moinesti.ro"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Luni - Joi: 10.00 - 14.00, Vineri: 10.00 - 12.00",
+        "capacity": 200
+      }
+    }
+  ]
+}
