@@ -1,15 +1,7 @@
 <template>
   <div class="h-full map">
-    <MglMap
-      :map-style="style"
-      :center="center"
-      :zoom="zoom"
-    >
-      <MglMarker
-        v-for="(feature, index) in data.features"
-        :key="index"
-        :coordinates="feature.geometry.coordinates"
-      >
+    <MglMap :map-style="style" :center="center" :zoom="zoom">
+      <MglMarker v-for="(feature, index) in data.features" :key="index" :coordinates="feature.geometry.coordinates">
         <template #marker>
           <div style="scale: 1.5">
             {{ shelterIconMapping[feature.properties.symbol] }}
@@ -49,6 +41,7 @@ const onPopupOpen = () => {
 const onPopupClose = () => {
   gsap.fromTo('.maplibregl-popup', { opacity: 1, scale: 1, transformOrigin: 'bottom center' }, { opacity: 0, scale: 0, transformOrigin: 'bottom center', duration: 0.2 });
 }
+
 </script>
 
 <style>
