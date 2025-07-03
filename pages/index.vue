@@ -24,7 +24,7 @@
 
 <script setup>
 import { gsap } from 'gsap';
-import data from '~/app/assets/data/geo/shelters-data.json';
+import data from '~/app/assets/data/geo/all-shelters-data.json';
 const style = `https://api.maptiler.com/maps/streets-v2/style.json?key=jUbqVn99qizW6y4sYQZS`;
 const center = [25.0094303, 45.9442858];
 const zoom = 6;

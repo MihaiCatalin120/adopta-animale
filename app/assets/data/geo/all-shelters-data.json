@@ -1,0 +1,5724 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7575006,
+          43.7252286
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "SERVICIUL PENTRU GESTIONAREA CFS BRĂNEȘTI",
+        "address": "Com Brănești, sat Islaz, str. Fermelor, nr. 51",
+        "contact": {
+          "name": "Belous Tiberiu",
+          "phone": "0721117665",
+          "email": "tiby_23@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://adoptailfov.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 16.00",
+        "capacity": 276
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.053939,
+          44.4018105
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASPA BUCUREȘTI – ADĂPOST BRAGADIRU",
+        "address": "Oraș Bragadiru, E 70, (incinta penitenciarului București – Rahova)",
+        "contact": {
+          "name": "Mara Marnas",
+          "phone": "0734301394",
+          "email": "bragadiru@aspa.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.aspa.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / M – S: 10.00 – 16.00",
+        "capacity": 1527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1690624,
+          44.3799048
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST FUNDAȚIA SPERANȚA",
+        "address": "Oraș Popești-Leordeni, Tarlaua 3, Parcela 7",
+        "contact": {
+          "name": "Deliu Aurelian",
+          "phone": "0723343915",
+          "email": "reludeliu@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://adapostulsperanta.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00 / Sâmbătă-Duminică: 10.00 – 12.00",
+        "capacity": 380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9914616,
+          44.54030849999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST MOGOȘOAIA – B&G TOTAL EXPRES",
+        "address": "Comuna Mogoșoaia, strada Morii, nr. 9",
+        "contact": {
+          "name": "Sârbu Ioana",
+          "phone": "0766509676",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Adapost Canin Mogosoaia"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.30 – 14.30",
+        "capacity": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0629974,
+          44.6081548
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST BALOTEȘTI – HORTI SEMNATURA",
+        "address": "Comuna Balotești, Șos. București – Ploiești Km. 21, în incinta ICDCB Balotesti",
+        "contact": {
+          "name": "Pantazi Radu",
+          "phone": "0721260634",
+          "email": "pantazi_ionut@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 12.00 – 16.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.3227148,
+          44.3867308
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST DIRECȚIA DE UTILITĂȚI PUBLICE ȘI MEDIU – PRIMĂRIA SECTOR 2",
+        "address": "Comuna Cernica, sat Tânganu, Str. Nicolae Iorga, nr. 31",
+        "contact": {
+          "name": "Codruț Andreea Corina",
+          "phone": "0768173388",
+          "email": "corina.condrut@ps2.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://adapostanimale.pentrusectorul2.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 11.00 – 13.00",
+        "capacity": 404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0473775,
+          44.3982511
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CORNETU – SC VETEVOLUTION SRL",
+        "address": "Oraș Măgurele, loc. Vârteju, strada Eclipsei, nr. 7",
+        "contact": {
+          "name": "Marin Maria",
+          "phone": "0785370001",
+          "email": "vetevolution@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/Vet-Evolution-114864220344328"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00 / Sâmbătă: 09.00 – 12.00",
+        "capacity": 256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0086908,
+          44.513984
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST COMITETUL NAȚIONAL PENTRU PROTECȚIA ANIMALELOR MOGOȘOAIA",
+        "address": "Comuna Mogoșoaia, str. Muzelor, nr. 1",
+        "contact": {
+          "name": "Ioana Ionescu",
+          "phone": "0723541420",
+          "email": "ioanacasetti@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://mogosoaia.animapro.org/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Dum: 08.00 – 14.00",
+        "capacity": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9388214,
+          44.56297439999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIU LOCAL BUFTEA",
+        "address": "Oraș Buftea, strada Rândunelelor, nr. 51",
+        "contact": {
+          "name": "Mirea Daniel",
+          "phone": "0746206286",
+          "email": "cainifarastapanbuftea@yahoo.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariabuftea.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 11.00 – 12.00",
+        "capacity": 380
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1182026,
+          44.3061878
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SUFLETE DRAGI",
+        "address": "com. Vidra, sat Sintești, str. Linia Viilor 1, tarla 9, parcela 74/4/4",
+        "contact": {
+          "name": "Murgu Alina",
+          "phone": "0727042942",
+          "email": "murgu.alina_m@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Suflete Dragi"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2147063,
+          44.4470487
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST TAILS 4 TRAVEL SRL",
+        "address": "oraș Pantelimon, șos. Cernica, nr. 7-9",
+        "contact": {
+          "name": "Postelnicu Alexandru",
+          "phone": "0751017223",
+          "email": "contact@tails4travel.org"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Tails 4 travel"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 09.00 – 16.00",
+        "capacity": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA AJUTOR PENTRU PROTECȚIA ANIMALELOR MAYA",
+        "address": "Tunari, fn, tarla 24, parcela 120/7/1",
+        "contact": {
+          "name": "Voicu Nicoleta",
+          "phone": "0742760573",
+          "email": "un.catalina@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://hopeforcatasstrays.org/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5636066,
+          46.0522154
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUNICIPIULUI ALBA IULIA",
+        "address": "Municipiul Alba Iulia, str. Rogozului, nr. 40",
+        "contact": {
+          "name": "dr. Beres Vasile",
+          "phone": "0737466108",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.apulum.ro/index.php/servicii/detaliu/771"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni-Vineri 10.00-16.00, Sâmbătă-Duminică 10:00-12:00",
+        "capacity": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3675078,
+          45.8370606
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA DE PROTECȚIE A ANIMALELOR SEMPEER FIDELIS",
+        "address": "Municipiul Cugir, Str. Serelor, nr. 4",
+        "contact": {
+          "name": "Dr. Beudean Rodica",
+          "phone": "0744550409",
+          "email": "beudeanr@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/people/Semper-Fidelis/100069654080976/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Duminică: 09.00 – 13.00",
+        "capacity": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5548748,
+          45.98847139999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST S.C. CLINIC MARTVET S.R.L.",
+        "address": "Municipiul Sebeș, Lancrăm, Str. Veche f.n.",
+        "contact": {
+          "name": "Dolha Calin",
+          "phone": "0735557501",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/Adapost-caini-Sebes-Lancram-288281361592658/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 13.00 – 15.00",
+        "capacity": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4864679,
+          45.9920306
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ARCHE NOAH TRANSILVANIA",
+        "address": "Vințu de Jos, Str. Lucian Blaga, nr. 64",
+        "contact": {
+          "name": "Florin Filimon",
+          "phone": "0724317560",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/archenoahtransilvania/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 14.00",
+        "capacity": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.731812,
+          46.3194646
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS PRIMĂRIA AIUD",
+        "address": "Str. Tribun Tudoran, nr. 72H",
+        "contact": {
+          "name": "Dolha Calin",
+          "phone": "0735557501",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 16.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9239972,
+          46.1762489
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA BLAJ",
+        "address": "Blaj, str. Clujului, FN",
+        "contact": {
+          "name": "Păcurar Claudiu",
+          "phone": "0724060511",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 16.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2793974,
+          46.1687776
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST GOSPODARIREA COMUNALA ARAD S.A.",
+        "address": "Municipiul Arad, Str. Bodogului 5A",
+        "contact": {
+          "name": "Dr. Cana Paula, Oprinescu Claudiu",
+          "phone": "0257270352; adapost.caini@gcarad.ro",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://caini.gcarad.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 15.00, Sambata: 09:00 – 11:00",
+        "capacity": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8445191,
+          44.839015
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA TIERHILFE HOFFNUNG SMEURA",
+        "address": "Comuna Moșoaia, sat Smeura, calea Dragasani nr. 286",
+        "contact": {
+          "name": "Voicu Anamaria 0733929351;",
+          "phone": "maria.voicu@smeura-mobilevet.com",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/groups/1353899724763346/posts/2026758054144173/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 14.00",
+        "capacity": 7000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6653514,
+          45.131924
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PENTRU PROTECȚIA ȘI ADOPȚIA CÂINILOR FĂRĂ STĂPÂN",
+        "address": "Mun. Curtea de Argeș, str. Oborului nr 5",
+        "contact": {
+          "name": "Lungu Razvan",
+          "phone": "0723399222",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6685182,
+          45.14059659999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ALĂTURI DE TINE 2007",
+        "address": "Municipiul Curtea de Argeș, str. Victoriei nr. 102 S",
+        "contact": {},
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00 Sâmbătă 08.00 – 12.00",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.017897,
+          45.0932637
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL MIOVENI – S.C. SERVICII EDILITARE PENTRU COMUNITATE S.R.L.",
+        "address": "Loc. Mioveni, Cartierul Racovița, punct Valea Popii",
+        "contact": {},
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://sedcmioveni.ro/index.php/ecarisaj"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 650
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6391518,
+          45.1728022
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA VERGESSENE SEELE – SUFLETE PIERDUTE",
+        "address": "Comuna Valea Danului sat Borobanești Curtea de Argeș",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 09.00 – 12.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8257314,
+          44.828259
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA PITEȘTI",
+        "address": "Comuna Moșoaia, sat Smeura",
+        "contact": {
+          "name": "Preda Stefan 0733030343;",
+          "phone": "biobazapitesti@yahoo.ro",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 14.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8883714,
+          45.2278104
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST \"ASOCIAȚIA ANIMA\"",
+        "address": "MUNICIPIUL CÂMPULUNG, DN 73C, NR. 2",
+        "contact": {},
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://facebook.com/profile.php?id=100071513074212"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri 12.00 – 14.00",
+        "capacity": 800
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6807807,
+          45.1607047
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST \"ASOCIAȚIA LĂBUȚE SPRE LIBERTATE\"",
+        "address": "Mun.Curtea de Argeș, Str Locotenent Pavelescu Nr 23Z, punct Ogoare",
+        "contact": {},
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.ong-labute-cda.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni- Vineri: 11-13",
+        "capacity": 235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.6903364,
+          45.0698096
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST \"ASOCIAȚIA SPRIJINUL ANIMALELOR\"",
+        "address": "Loc. Argeseni, com. Baiculesti, nr. 30",
+        "contact": {
+          "name": "Lungu Razvan",
+          "phone": "0723399222",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook Asociatia Sprijinul Animalelor"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni- Vineri: 10-12",
+        "capacity": 495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.92211,
+          46.5234
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUNICIPIULUI BACĂU",
+        "address": "Municipiul Bacău, Str. Republicii, nr. 181",
+        "contact": {
+          "name": "Dinu Mihai Pancescu",
+          "phone": "0234547427",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/groups/335291303487153/512143545801927"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 1437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7679836,
+          46.2653579
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL ONEȘTI",
+        "address": "Municipiul Onești, Calea Bacăului nr. 10",
+        "contact": {
+          "name": "Calin Ochian Mihaela",
+          "phone": "0770362501",
+          "email": "cainifarastapan@dpponesti.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/Adapost.caini.Onesti/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5490648,
+          47.176042
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUNICIPIULUI MOINEȘTI",
+        "address": "Municipiul Moinești, str. Păcurari fn",
+        "contact": {
+          "name": "Agache Iustin Ionel",
+          "phone": "0234363680",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://moinesti.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Joi: 10.00 – 14.00, Vineri: 10.00 – 12.00",
+        "capacity": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6181847,
+          46.27770659999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST TÂRGU OCNA – SC UTIL CONSECA SRL",
+        "address": "Oraș Tg. Ocna, str. Costache Negri, FN",
+        "contact": {
+          "name": "Lucaci Stefan",
+          "phone": "0371395202",
+          "email": "utilconseca@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://utilconseca.wordpress.com/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 10.00",
+        "capacity": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6981058,
+          46.7409845
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CÂINI FĂRĂ STĂPÂN BUHUȘI – ASOCIAȚIA LUPII TINERI",
+        "address": "Oraș Buhuși, Str. Libertății, nr. 36",
+        "contact": {
+          "name": "Alupoaiei Iulian 0754348584",
+          "phone": "asociatia.lupiitineri@yahoo.com",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/asociata.lupiitineri.3/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4197174,
+          46.3966518
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SUFLETUL MEU",
+        "address": "Oraș Comănești, Str. Fagului FN",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 16.00; Sambata: 08:00-13:00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8403508,
+          46.7367444
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA NO LIMIT PETS",
+        "address": "Strada Veseliei, nr. 60, sat Galbeni, Comuna Filipesti",
+        "contact": {
+          "name": "Suciu Florin",
+          "phone": "0746 385 854",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.nolimit.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni-Vineri: 10.00-12.00",
+        "capacity": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8926695,
+          47.0667699
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST A.D.P. S.A. ORADEA",
+        "address": "Municipiul Oradea, str. Corneliu BABA nr. 19",
+        "contact": {
+          "name": "Liviu Andrica",
+          "phone": "0733055533",
+          "email": "secretariat@adporadea.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.adporadea.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00, Sâmbătă: 10.00 – 14.00",
+        "capacity": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0743564,
+          47.1595429
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST FUNDAȚIA PENTRU PROTECȚIA CÂINILOR COMUNITARI ȘISTEREA",
+        "address": "Comuna Cetariu, sat Șișterea nr. 370",
+        "contact": {
+          "name": "Lazăr Carol 0723656621",
+          "phone": "office@sosdogs.ro",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.sosdogs.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 440
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9275104,
+          47.2223937
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ACTIVE FRIENDS FOR PEOPLE AND DOGS",
+        "address": "loc. Tamaseu, 379/A",
+        "contact": {},
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.active-friends.eu/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri intre orele 8,00-16,00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3389852,
+          46.6644258
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ADMINISTRAȚIA DOMENIULUI PUBLIC BEIUȘ",
+        "address": "mun. Beiuș, str. Crișului, nr. 39/A",
+        "contact": {
+          "name": "Ardelean Calin",
+          "phone": "0359412712",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://adpbeius.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni - Vineri: 08.00 – 16.00",
+        "capacity": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3397566,
+          47.34791939999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST MUNICIPIUL MARGHITA",
+        "address": "Oraș Marghita, nr. cadastral 105337",
+        "contact": {
+          "name": "Marcel Emil Sas Adascalitei",
+          "phone": "0259362001",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://marghita.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / luni – vineri 08:00 – 16:00",
+        "capacity": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3980649,
+          47.0590191
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS PRIMĂRIA ALEȘD",
+        "address": "Aleșd, str. Emil Palade, nr 11/B",
+        "contact": {
+          "name": "Todoca Ioan",
+          "phone": "0259342539",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://alesd-bihor.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / luni – vineri 08:00 – 16:00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6414692,
+          46.8148885
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST MUNICIPIUL SALONTA",
+        "address": "Mun. Salonta, str. Ghestului, FN",
+        "contact": {
+          "name": "Szijjarto Iosif Zoltan",
+          "phone": "0259373243",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://salonta.net/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / luni – vineri 08:00 – 16:00",
+        "capacity": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.469843,
+          47.1132196
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST DE CÂINI FĂRĂ STĂPÂN/DIRECȚIA DE SERVICII PUBLICE BISTRIȚA",
+        "address": "Municipiul Bistrița, str. Simpozionului nr. 2",
+        "contact": {
+          "name": "Roxana Somodean",
+          "phone": "0743654992",
+          "email": "roxana.somodean@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://einherzfuerstreuner.de/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – vineri: 07.00 – 18.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4094641,
+          47.28332
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA ORAȘULUI NĂSĂUD",
+        "address": "Oraș Năsăud, str. Podirei nr. 14A",
+        "contact": {
+          "name": "Alexandra Stefan",
+          "phone": "0746100205",
+          "email": "office@armehundeseelen"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.armehundeseelen.com/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Duminica: 10.00 – 12.00, 16 – 18",
+        "capacity": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4022298,
+          47.0717041
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ANIMATERRA",
+        "address": "Com. Șieuți Magheruș, sat Crainimăt, fn",
+        "contact": {
+          "name": "Rozina Bachner",
+          "phone": "0754848203",
+          "email": "info@1dogatatimerescue.org"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.1dogatatimerescue.org/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Dum: 09.00 – 12.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4736652,
+          47.0658482
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PIPO ANIMALS",
+        "address": "Com. Budacu de Jos, loc. Monariu, nr. 112",
+        "contact": {
+          "name": "Gherman Alina",
+          "phone": "0742404352",
+          "email": "pipo_animals@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/pipoanimals/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6815708,
+          47.7422718
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL BOTOȘANI",
+        "address": "Str. I.C. Brătianu, FN, Municipiul Botoșani",
+        "contact": {
+          "name": "Dumitru Paveliuc",
+          "phone": "0331710613",
+          "email": "secretariat@polivalenta.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/dspsabt/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 960
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.9511961,
+          47.5577094
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS FLĂMÂNZI SC LOCAL SERVICII SRL",
+        "address": "Oraș Flămânzi, str. Aviator Comandor Berbunschi Dumitru, FN",
+        "contact": {
+          "name": "Anofriesei Mihai",
+          "phone": "0231552727",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 10.00 – 18.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6903883,
+          47.7261166
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC DRIMS PREST INTERNATIONAL SRL",
+        "address": "Botoșani, Str. Tulbureni, nr. 8 B",
+        "contact": {
+          "name": "Hascu Liviu",
+          "phone": "0740810666",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 10.00 – 18.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7488194,
+          47.7284781
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PENTRU PROTECȚIA ANIMALELOR ADOR",
+        "address": "Comuna Stăuceni, PC 14, extravilan",
+        "contact": {
+          "name": "Andrișan Dana",
+          "phone": "0745908551",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/people/Asociatia-ADOR-Botosani/100064786399629/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4073122,
+          47.9644149
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS DOROHOI – SERVICII PUBLICE LOCALE SRL",
+        "address": "Dorohoi, str. Sf Ioan Romanul, FN",
+        "contact": {
+          "name": "Niță Cristian",
+          "phone": "0231610199",
+          "email": "spldorohoi@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 10.00 – 18.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5712095,
+          45.6955256
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SPGA CONSILIUL LOCAL BRAȘOV",
+        "address": "Municipiul Brașov, str. Merilor nr. 6",
+        "contact": {
+          "name": "Buse Florina/Anghel Sabina",
+          "phone": "0268543815",
+          "email": "spgabv@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 16.00 / S-D 08.00-12.00",
+        "capacity": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.6505567,
+          45.667351
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA \"MILIOANE DE PRIETENI\" BRAȘOV",
+        "address": "Municipiul Brașov, str. Timiș Triaj, nr. 20",
+        "contact": {
+          "name": "David Ioana",
+          "phone": "0268471202",
+          "email": "oana.david@millionsoffriends.org"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.ampbears.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 12.00",
+        "capacity": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4578441,
+          45.7050032
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST DMPA CODLEA",
+        "address": "Municipiul Codlea, str. Hălchiului nr. 101",
+        "contact": {
+          "name": "Codruz Maria Luiza",
+          "phone": "0723211448",
+          "email": "dpmpa_bv@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.facebook.com/DPMPA2011"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Duminică: 10.00 – 14.00",
+        "capacity": 290
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7801509,
+          45.7236098
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA CARE FOR DOGS",
+        "address": "Prejmer, dj 112, Brașov",
+        "contact": {
+          "name": "Botea Delia",
+          "phone": "0743077303",
+          "email": "carefordogsro@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/carefordogsro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 14.00",
+        "capacity": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7846084,
+          45.1115736
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST UNIREA – PRIMĂRIA MUNICIPIULUI BRĂILA",
+        "address": "Comuna Unirea, județul Brăila",
+        "contact": {
+          "name": "Podaru Andi",
+          "phone": "0756044408",
+          "email": "supaglbraila@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – adapost unirea-braila"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 12.00 – 15.00",
+        "capacity": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.4906532,
+          45.115371
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST IANCA – CONSILIUL LOCAL IANCA",
+        "address": "Oraș Ianca, str. Fabricii nr. 13",
+        "contact": {
+          "name": "Dumitrache Anca",
+          "phone": "0239668806",
+          "email": "dsp_ianca@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.dsp-ianca.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 07.00 – 09.00",
+        "capacity": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8851026,
+          45.22032799999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PHOENIX DOGS",
+        "address": "Sat Lacu Sărat, Str. Gării, Brăila",
+        "contact": {
+          "name": "Vlădescu Marin",
+          "phone": "0769675451",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Phoenixdogs"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 14.00",
+        "capacity": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.587885,
+          44.93489599999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PAWS OF LOVE",
+        "address": "Oraș Însurăței, Str. Vlaicu Vodă, nr. 17",
+        "contact": {
+          "name": "Vlădescu Marin Gherase",
+          "phone": "0761675451",
+          "email": "pawsoflove2020@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://web.facebook.com/Paws-of-Love-Shelter-Rom%C3%A2nia-111726534293185"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / 12:00 – 14:00",
+        "capacity": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.5857374,
+          44.9308394
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PAWS PARADISE",
+        "address": "Oraș Însurăței, Str. Vlaicu Vodă, nr. 13",
+        "contact": {
+          "name": "Vlădescu Violeta",
+          "phone": "0744278698",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Paws Paradise"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / 12:00 – 14:00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9487908,
+          45.3091309
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA \"BARK4LIFE\"",
+        "address": "Brăila, Calea Galați nr. 385-387",
+        "contact": {
+          "name": "Custură Gina",
+          "phone": "0767216661",
+          "email": "alina.custura@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Bark4life shelter"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / 12:00 – 14:00",
+        "capacity": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.7732633,
+          45.1668119
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC URBIS SERV SRL – CONSILIUL LOCAL BUZĂU",
+        "address": "Buzău, stație CFR Buzău Nord",
+        "contact": {
+          "name": "dr. Popa Adrian",
+          "phone": "0238715151",
+          "email": "office@urbis-serv.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.urbis-serv.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 387
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0592772,
+          45.37919249999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – CONSILIUL LOCAL RÂMNICU SĂRAT",
+        "address": "Str. Armoniei, nr. 58 bis, Municipiul Râmnicu Sărat",
+        "contact": {
+          "name": "Nechifor Gheorghe",
+          "phone": "0238563032",
+          "email": "adporas@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://serviciulpentrucaini.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8171122,
+          45.1371109
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PENTRU PROTECȚIA ANIMALELOR SF. FRANCISC D'ASSISI",
+        "address": "Buzău, șoseaua Sloboziei, punct Șerdinanca",
+        "contact": {
+          "name": "dr. Doana Valentin",
+          "phone": "0740033872",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://vet-buzau.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri 10.00 – 18.00",
+        "capacity": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.8538692,
+          44.9948533
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA MICII PATRUPEZI BLĂNOȘI",
+        "address": "Smeeni",
+        "contact": {
+          "name": "Scriba Andrei Nicolae",
+          "phone": "0787239053",
+          "email": "miciipatrupezi_blanosi@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni-Vineri 10.00 – 14.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8821033,
+          45.3049703
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERV. PUBL. – PRIMĂRIA REȘIȚA",
+        "address": "Municipiul Reșița, str. Lupacului F.N.",
+        "contact": {
+          "name": "Ionașcu Oana",
+          "phone": "0727812172",
+          "email": "intretinere.patrimoniu@primariaresita.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primariaresita.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 15.00",
+        "capacity": 236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3640996,
+          44.9038774
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PT. PROTECȚIA ANIMALELOR PRO PET",
+        "address": "loc. Mehadia 1131",
+        "contact": {
+          "name": "Ghiocel Andreea",
+          "phone": "0764188188",
+          "email": "propetasociationa@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://propetassociation.com/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.30 – 17.30, S-D: 08.30 – 14.00",
+        "capacity": 700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.8061853,
+          45.3925371
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERV. PUBL. – PRIMĂRIA BOCȘA",
+        "address": "Str. Ezerișului, FN",
+        "contact": {
+          "name": "Ciorogariu Mario",
+          "phone": "0355412076",
+          "email": "gospodaria_bocsa@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – adapost caini fara stapan bocsa"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 18.00",
+        "capacity": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6858006,
+          45.0362048
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ORAVIȚA",
+        "address": "Oraș Oravița, varianta ocolitoare, FN",
+        "contact": {
+          "name": "Trihenea Gheorghe Adrian",
+          "phone": "07761118090",
+          "email": "0772062413 bgcoravita@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/adapostcainioravita/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6642348,
+          44.735184
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MOLDOVA NOUĂ",
+        "address": "Moldova Nouă, Zona Varand-CF-30624",
+        "contact": {
+          "name": "Stanca Adelina Elena",
+          "phone": "0522540997",
+          "email": "contact@primariamoldovanoua.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primariamoldovanoua.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.3504257,
+          45.5158698
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SHKR PENTRU PROTECȚIA ANIMALELOR",
+        "address": "Oțelu Roșu CF 35003",
+        "contact": {
+          "name": "Kaupp Tanja Emanuela",
+          "phone": "0747612112",
+          "email": "asociatiahkr@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/asociatia.shkr.protectia.animalelor.romania/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Dum: 11.00 – 14.00",
+        "capacity": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0529946,
+          44.7863885
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA STANDPUNKT",
+        "address": "DN 57B, Plopa/Crivina FN",
+        "contact": {
+          "name": "Stumpf Bettina",
+          "phone": "0784293659",
+          "email": "standpunkt.ro@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/standpunkt.romania/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Dum: 10:00 – 14.00",
+        "capacity": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.190095,
+          45.4109293
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS PRIMĂRIA CARANSEBEȘ",
+        "address": "Str Valea Mare 108 C, Valea Cenchii",
+        "contact": {
+          "name": "Emanuel Dragomir",
+          "phone": "0722453219",
+          "email": "adapostcaransebes@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – adapost caransebes"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.0910242,
+          44.2701454
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERV. PUBL. CFS – CĂLĂRAȘI",
+        "address": "Strada Varianta Nord nr. 36 E, Municipiul Călărași",
+        "contact": {
+          "name": "Neagu Marin",
+          "phone": "0242313300",
+          "email": "dmspmc@primariacalarasi.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primariacalarasi.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Joi: 08.30 – 15.00, Vineri: 08.30 – 12.30",
+        "capacity": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6381698,
+          44.0865768
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERV. PUBL. CFS – OLTENIȚA",
+        "address": "Utr 81, tarla 124 Oltenița",
+        "contact": {
+          "name": "Dobre Nicoleta",
+          "phone": "0242515770",
+          "email": "contact@primariaoltenita.ro"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 12.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8206814,
+          46.5645806
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA CENTRUL DE ECARISAJ TURDA",
+        "address": "Municipiul Turda, strada Bogata, nr. 12",
+        "contact": {
+          "name": "dr. Ciobanu Nicolae",
+          "phone": "0742010480",
+          "email": "aceturda2016@yahoo.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.facebook.com/ecarisajturda/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.626175,
+          46.7909647
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CGCFS CLUJ-NAPOCA",
+        "address": "Municipiul Cluj Napoca, str. Bobâlnei, nr. 65",
+        "contact": {
+          "name": "dr. Mioara Macrinici, dr. Pop Cristian",
+          "phone": "0264415788",
+          "email": "cgcfs@centru-caini.radpcj.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/Cateii-de-la-Ecarisaj-Cluj"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8981068,
+          47.0244088
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "SC ADP GHERLA SA",
+        "address": "Municipiul Gherla, str. Gelu, FN",
+        "contact": {
+          "name": "dr. Roxana Dobocan",
+          "phone": "0264241912",
+          "email": "adpgherla@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.procanes.org/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8721431,
+          47.1537156
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA DEJ",
+        "address": "Municipiul Dej, strada Salciilor FN",
+        "contact": {
+          "name": "Stanca Gherman",
+          "phone": "0726106003",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/asociatia.animaproterra/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 08.00 – 16.00",
+        "capacity": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8206814,
+          46.5645806
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "SC NOVAVET SRL TURDA",
+        "address": "Municipiul Turda, strada Bogata, nr. 12",
+        "contact": {
+          "name": "dr. Ciobanu Nicolae",
+          "phone": "0742010480",
+          "email": "aceturda2016@yahoo.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.facebook.com/ecarisajturda/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0026249,
+          44.2743676
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "SAVE THE DOGS AND OTHER ANIMALS",
+        "address": "Oraș Cernavodă, extravilan, V6/12. DJ 223, km 2",
+        "contact": {
+          "name": "Manea Andreea",
+          "phone": "0721612987",
+          "email": "savethedogs@cernavoda.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://urmedebucurie.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 09.00 – 17.00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5586109,
+          44.2576259
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASOCIAȚIA I'M A SINGLE DOG",
+        "address": "Ovidiu, str. Lanului 6A",
+        "contact": {
+          "name": "Carneluta Ionela",
+          "phone": "0770747689",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 14.00 – 16.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6117855,
+          44.3235481
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "SERV. GOSP. COMUNALĂ – PRIMĂRIA NĂVODARI",
+        "address": "Oraș Năvodari, Str. Luminei, FN",
+        "contact": {
+          "name": "dr. Stamate Alexandru",
+          "phone": "0741130931",
+          "email": "gospodariecomunala@primaria-navodari.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.primaria-navodari.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00 / Sâmbătă-Duminică: 08.00 – 12.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5539469,
+          44.2612523
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "GREEN LIFE RECYCLING SRL – OVIDIU",
+        "address": "Oraș Ovidiu, Str. Portului, nr. 36D bis",
+        "contact": {
+          "name": "Carneluta Ionela",
+          "phone": "0770747689",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 14.00 – 16.00",
+        "capacity": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9456974,
+          44.6854639
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS HÂRȘOVA",
+        "address": "Oraș Hârșova, Str. Decebal, Nr. 1",
+        "contact": {
+          "name": "Țepeș Cătălin",
+          "phone": "0786806310",
+          "email": "primariaharsova@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://primaria-harsova.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.5741496,
+          43.8152436
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MANGALIA",
+        "address": "loc. Mangalia, str. Șerban Cioculescu, nr. 1",
+        "contact": {
+          "name": "Buturuga Loredana",
+          "phone": "0754851304",
+          "email": "medlovet8@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/adoptiicainimangalia/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6518285,
+          44.203164
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA DOGGY LAND FAMILY TECHIRGHIOL",
+        "address": "str. Pescarilor 36 – loc. Topraiser",
+        "contact": {
+          "name": "Manolache Alexandra",
+          "phone": "0728651600",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.doggylandfamily.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 16.00",
+        "capacity": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.6519359,
+          44.1759147
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOSTUL PUBLIC CONSTANȚA",
+        "address": "Constanța, str. Câmpul cu Flori, nr. 11",
+        "contact": {
+          "name": "Eftinca Anamaria",
+          "phone": "0733568993",
+          "email": "ana.eftinca@primaria-constanta.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primaria-constanta.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni, Marți, Miercuri, Vineri 10.00-14.00 / Joi 09.30-17.30",
+        "capacity": 410
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5895141,
+          46.0714763
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL – BARAOLT",
+        "address": "Oraș Baraolt, strada Kossuth Lajos nr. 255",
+        "contact": {
+          "name": "Beke Arpad",
+          "phone": "0727327536",
+          "email": "primarie@primariabaraolt.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariabaraolt.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 07.30 – 15.30",
+        "capacity": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SGCFS SFÂNTU GHEORGHE",
+        "address": "Câmpul Frumos, FN, corp D",
+        "contact": {
+          "name": "Balázsi-Bardocz Csaba",
+          "phone": "0769065095/0732717185",
+          "email": "menhely_adapost@tega.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.tega.ro/ro/galerie/adapost-de-caini/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 16.00, S-D: 10.00 – 16.00",
+        "capacity": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.137723,
+          45.9941483
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA BENJI – TG. SECUIESC",
+        "address": "Municipiul Târgu Secuiesc, strada Gării FN",
+        "contact": {
+          "name": "Forro Bela",
+          "phone": "0728266502",
+          "email": "allatvedelem.kezdi@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.help-benji.ro/hun/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00 / S-D 10.00-14.00",
+        "capacity": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1706206,
+          45.8506612
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA ORAȘULUI COVASNA",
+        "address": "Covasna, str. Mikszath Kalman, nr. 14",
+        "contact": {
+          "name": "Ghioane Mihai",
+          "phone": "0267340001",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primariacovasna.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4371598,
+          44.9721293
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUN. TÂRGOVIȘTE",
+        "address": "Comuna Aninoasa",
+        "contact": {
+          "name": "dr. Popescu Ioana",
+          "phone": "0245611222",
+          "email": "directiasalubritate@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/cainifarastapan.tgv"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8931385,
+          44.692714
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA SECTOR 2 BUCUREȘTI",
+        "address": "Comuna Butimanu, Tarla 68, Parcela 501",
+        "contact": {
+          "name": "Codruț Andreea Corina",
+          "phone": "026980840",
+          "email": "corina.codrut@ps2.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.ctv2.org/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Duminică: 10.00 – 16.00",
+        "capacity": 280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8931385,
+          44.692714
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "FUNDAȚIA P.P.A COLȚ ALB",
+        "address": "Comuna Butimanu, Tarla 68, Parcela 501",
+        "contact": {
+          "name": "Sanda Andrei",
+          "phone": "0723567131",
+          "email": "sanda_andrei@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://fundatiacoltalb.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8931385,
+          44.692714
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "FUNDAȚIA P.P.A SEMPER FIDELIS DOMUS",
+        "address": "Comuna Butimanu, Tarlaua 78, P 501",
+        "contact": {
+          "name": "Bogza Steliana",
+          "phone": "0729806983",
+          "email": "office.sfd@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/Fundatia-pentru-protectia-animalelor-Semper-Fidelis-Domus"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni - Vineri: 10.30 – 16.00",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.640211,
+          44.9820431
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRESTĂRI SERVICII MUNICIPALE MORENI",
+        "address": "Mun. Moreni, str. Industriilor",
+        "contact": {
+          "name": "Necșoiu Gabriel",
+          "phone": "0726498207",
+          "email": "psmoreni@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.psmoreni.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Joi: 15.00 – 16.00, Vineri: 13:00 – 14:00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7948808,
+          44.3301785
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST S.C. SALUBRITATE CRAIOVA S.R.L",
+        "address": "Craiova, Tarlaua 44, NP 311",
+        "contact": {
+          "name": "Truță Marius",
+          "phone": "0251370070",
+          "email": "office@salubritate-craiova.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.adapostcanincraiova.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00 / S-D 11.00-13.00",
+        "capacity": 512
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0334799,
+          45.4743515
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERVICIUL PUBLIC ECOSAL GALAȚI",
+        "address": "Municipiul Galați, strada Zimbrului, nr. 1",
+        "contact": {
+          "name": "Boldișor Constantin, Bîrlea Daniel",
+          "phone": "0336100154/0734113122",
+          "email": "ecarisaj@ecosalgl.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.ecosalgl.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00 / S-D 10.00-12.00",
+        "capacity": 1250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0887168,
+          45.4514412
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA AJUTAȚI-L PE LĂBUȘ",
+        "address": "Galați, str. Sânzienelor, nr. 82",
+        "contact": {
+          "name": "Corina Grigore",
+          "phone": "0751024562/0742432156",
+          "email": "help_labus@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.help-labus.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 13.00",
+        "capacity": 1100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0462736,
+          45.4556992
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST FUNDAȚIA ROLDA",
+        "address": "Municipiul Galați, extravilan, Tarlaua 594/P4",
+        "contact": {
+          "name": "Costin Elena Daniela",
+          "phone": "0748903612",
+          "email": "roldaro@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.rolda.org/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 13.00 – 14.00",
+        "capacity": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.8397917,
+          45.4366244
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SAVA'S SAFE HAVEN",
+        "address": "Comuna Brăniștea, Tarla 22, Parcela 44",
+        "contact": {
+          "name": "Sava Alexandra",
+          "phone": "0766749680",
+          "email": "0766370412, info@savasafehaven.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.savasafehaven.com/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Zilnic, pe bază de programare telefonică",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9318135,
+          45.4122316
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST UAT ȘENDRENI",
+        "address": "Com. Șendreni, Sat Șendreni, str. Pârâu Obreja nr 29",
+        "contact": {
+          "name": "Avadanii Gabriela Roxana",
+          "phone": "0743235440",
+          "email": "sendreniifo@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 10.00 – 13.00",
+        "capacity": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3160284,
+          45.9135573
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CHR PET RESCUE TRANSPORT SRL",
+        "address": "Sat Dobrinești, Com. Nicorești, str. Primar Emil Constantinescu nr 93",
+        "contact": {
+          "name": "Leca Bogdan",
+          "phone": "0747915353",
+          "email": "lecavasilebogdan@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/CHRPetTransport/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni - Vineri: 09:00 – 17:00",
+        "capacity": 320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9428479,
+          43.8787399
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERVICII LOCALE SA – CONSILIUL LOCAL GIURGIU",
+        "address": "Municipiul Giurgiu, strada Voestalpine P1/P2",
+        "contact": {
+          "name": "Vîlcan Elena",
+          "phone": "contact@gslgiurgiu.ro",
+          "email": "0246215002"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://gslgiurgiu.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 721
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8928694,
+          44.3143737
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASPA BUCUREȘTI – ADĂPOST MIHĂILEȘTI",
+        "address": "Oraș Mihăilești, strada Complexului nr. 86",
+        "contact": {
+          "name": "Alina Nicoleta Vaituș",
+          "phone": "0741817857",
+          "email": "mihailesti@aspa.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.aspa.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / zilnic 10:00 – 16:00",
+        "capacity": 1374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9666063,
+          43.8959598
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PENTRU SUPRAVEGHEREA ȘI PROTECȚIA ANIMALELOR IVETS",
+        "address": "Șos. București – Giurgiu, nr. 50-100, com. Călugăreni, sat Uzunu",
+        "contact": {
+          "name": "Florea Corina",
+          "phone": "0722376888",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/aspaivets/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni - Vineri: 12-16",
+        "capacity": 1860
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2590189,
+          45.0162414
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST TÂRGU JIU",
+        "address": "Municipiul Târgu Jiu, strada Termocentralei, nr. 27A",
+        "contact": {
+          "name": "Duma Adrian",
+          "phone": "0784065306",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asjhunedoara.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 15.00 / S-D 10.00 – 11.00",
+        "capacity": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9728558,
+          44.8027376
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST MOTRU – CONSILIUL LOCAL MOTRU",
+        "address": "Municipiul Motru, tarlaua 6A, parcela 1",
+        "contact": {
+          "name": "Mantoc Gheorghe",
+          "phone": "0731406024",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://directiapublicamotru.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 07.00 – 15.00",
+        "capacity": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1703866,
+          44.89694859999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ROVINARI – S.C. SERVICII PUBLICE LOCALE ROVINARI S.R.L.",
+        "address": "Oraș Rovinari, strada Constructorilor, nr. 35 A",
+        "contact": {
+          "name": "Vilău Viorel",
+          "phone": "0765485977",
+          "email": "serviciipublice2007@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/SPL.Rovinari/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 260
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3734209,
+          44.68077299999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST TURCENI – SERVICIUL PUBLIC TURCENI",
+        "address": "Oraș Turceni, str. Muncii, nr. 12",
+        "contact": {
+          "name": "Cioc Petrică Cristinel",
+          "phone": "0766747470",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primariaturceni.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 16.00 / Sâmbătă-Duminică: 10.00 – 12.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7953655,
+          46.3695574
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST FUNDAȚIA PRO ANIMALIA (MIERCUREA CIUC)",
+        "address": "Municipiul Miercurea Ciuc, strada Topliței nr. 138D",
+        "contact": {
+          "name": "Gidro Paula",
+          "phone": "0749416802",
+          "email": "proanimaliaoffice@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/proanimaliahr/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 15.00",
+        "capacity": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.353299,
+          46.920042
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – TOPLIȚA",
+        "address": "Municipiul Toplița, strada Sportivilor FN",
+        "contact": {
+          "name": "Buzdugan Florin",
+          "phone": "0741111839",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/people/Adapost-Caini-Toplita/100068396945341/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3275746,
+          46.3123325
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUN ODORHEIU SECUIESC",
+        "address": "Municipiul Odorheiu Secuiesc, F.N.",
+        "contact": {
+          "name": "Ambrus Arnold",
+          "phone": "0266218383",
+          "email": "0266211929"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://kutyamenhely.udvarhely.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.4984852,
+          46.8060573
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PENTRU PROTECȚIA ANIMALELOR ȘI A MEDIULUI GHEORGHENI",
+        "address": "Com. Ditrău, str. Nicolae Bălcescu, nr. 294/D",
+        "contact": {
+          "name": "Jakab Agota Julia",
+          "phone": "0740253901",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.karpatenstreuner.de/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 16.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5683624,
+          46.7161794
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA GHEORGHENI",
+        "address": "Mun. Gheorgheni, str. Carierei, nr. 6A",
+        "contact": {
+          "name": "Laszlo Endre",
+          "phone": "0739856483",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://municipiulgheorgheni.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.3812371,
+          46.1917805
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA FRIENDLY ANIMAL SHELTER",
+        "address": "sat Sânpaul, com. Mărtiniș, Dj 133, FN",
+        "contact": {
+          "name": "Vass Andras",
+          "phone": "0755231373",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Friendly Animal Shelter"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 14.00",
+        "capacity": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.3655054,
+          45.4219135
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PUBLIC PETROȘANI",
+        "address": "Municipiul Petroșani, strada Mihai Eminescu, nr. 22A",
+        "contact": {
+          "name": "Anghel Loredana Liliana",
+          "phone": "0726018672",
+          "email": "adapost_hunedoara@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://adpp-petrosani.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 12.00, S-D 10:00 – 11:00",
+        "capacity": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8975319,
+          45.7393559
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC ECOSERV SRL HUNEDOARA",
+        "address": "Municipiul Hunedoara, strada Rotarilor, nr. 70",
+        "contact": {
+          "name": "Bobaru Petru Mircea",
+          "phone": "0774981832",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Adapost de caini hunedoara"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00, S-D 10-12",
+        "capacity": 156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1935804,
+          45.8271882
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ORĂȘTIE",
+        "address": "Municipiul Orăștie, strada Crișan, (zona Zăvoi)",
+        "contact": {
+          "name": "Ghenea Mihai",
+          "phone": "0783384724",
+          "email": "orastie@asjhunedoara.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asjhunedoara.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 13.00, S-D 10-11",
+        "capacity": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7829361,
+          46.1210725
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST BRAD",
+        "address": "Municipiul Brad, strada Dealul Racovei, nr. 4A",
+        "contact": {
+          "name": "Man Florian Vasile",
+          "phone": "0783384722",
+          "email": "brad@asjhunedoara.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asjhunedoara.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 13.00 / Sâmbătă/Duminică: 10.00 – 11.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0977626,
+          45.3249653
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST URICANI",
+        "address": "Oraș Uricani, Valea de Brazi, strada Tulisa, f.n.",
+        "contact": {
+          "name": "Berchi Carmen",
+          "phone": "0783384726",
+          "email": "uricani@asjhunedoara.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asjhunedoara.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 13.00 / Sâmbătă/Duminică: 10.00 – 11.00",
+        "capacity": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.0081932,
+          45.74027570000001
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CĂLAN",
+        "address": "Oraș Călan, strada Crișeni, nr. 15A",
+        "contact": {
+          "name": "Mitroi Oana",
+          "phone": "0783384725",
+          "email": "calan@asjhunedoara.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asjhunedoara.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 13.00, Sâmbătă/Duminică: 10.00 – 11.00",
+        "capacity": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9251505,
+          45.8002354
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SUFLETELE NIMĂNUI",
+        "address": "Sat Peștișu Mare, nr. 21",
+        "contact": {
+          "name": "Ani Cicalău",
+          "phone": "0772203525",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Laura Calugaru"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Duminică: 09.00 – 13.00",
+        "capacity": 280
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7727483,
+          45.9173402
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA BOBITZA ARK",
+        "address": "loc. Brănișca, nr. 213",
+        "contact": {
+          "name": "Roxana Simion",
+          "phone": "0724379377",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/bobitzasark/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 13.00, 15:00 – 18:00 / Sâmbătă-Duminică: 10.00 – 13.00, 15:00 – 18:00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9506502,
+          45.8573361
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PUBLIC DEVA",
+        "address": "Sântuhalm, Deva, fn",
+        "contact": {
+          "name": "Iotcu Luminița",
+          "phone": "0783384723",
+          "email": "deva@asjhunedoara.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asjhunedoara.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 13.00, / Sâmbătă-Duminică: 10.00 – 11.00",
+        "capacity": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9443282,
+          45.5718863
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ECHIPA DE VIS FULGY",
+        "address": "loc. Bărăștii Hațegului, nr. cadastral A1, com. Sântămăria Orlea",
+        "contact": {
+          "name": "Cișineanu Gabriela",
+          "phone": "0768542112",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Gabriela Casini"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 14.00, / Sâmbătă-Duminică: 12.00 – 13.00",
+        "capacity": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9506502,
+          45.8573361
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ANIMALUȚELE CRINEI-MARIA",
+        "address": "Sântuhalm, Deva, fn",
+        "contact": {
+          "name": "Sturza Crina Maria",
+          "phone": "0773973215",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Crina Maria"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 16.00 – 18.00, / Sâmbătă-Duminică: 14.00 – 16.00",
+        "capacity": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3168665,
+          44.6167066
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL AMARA",
+        "address": "Amara, DN 193, tarlaua 48, parcela 247 – în incinta Oborului Orășenesc Amara",
+        "contact": {
+          "name": "Bratu Gheorghe",
+          "phone": "0726658184",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 16.00, Sâmbătă/Duminică: 08.00 – 12.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3613656,
+          44.5628889
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST – CONSILIUL LOCAL MUN. SLOBOZIA",
+        "address": "Municipiul Slobozia, str. Gării nr. 56",
+        "contact": {
+          "name": "Bădărău Dumitru",
+          "phone": "0243235496",
+          "email": "dadp@municipiulslobozia.ro"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 07.00 – 16.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6438672,
+          44.64887179999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST – SADP ȚĂNDĂREI",
+        "address": "Oraș Țăndărei, str. București, nr. 275",
+        "contact": {
+          "name": "Chioveanu Săndel",
+          "phone": "0787614355",
+          "email": "serviciul_adp@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 07.00 – 16.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.840583,
+          44.3750959
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL FETEȘTI",
+        "address": "Oraș Fetești, strada Călărași nr. 547A",
+        "contact": {
+          "name": "Gheorghe Ana Alina",
+          "phone": "0343401660",
+          "email": "dadpfetesti@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 08.00 – 16.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6483697,
+          47.1435117
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC SOCIETATEA SALUBRIS SA – PRIMĂRIA MUNICIPIULUI IAȘI",
+        "address": "Șoseaua Iași – Tomești (DN 28 Iași – Albița) Km 1-2",
+        "contact": {
+          "name": "dr. Tărăboanță Anca",
+          "phone": "0729292826",
+          "email": "adapostmunicipaliasi@gmail.com, office@salubris.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.iasiadopta.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00 / Sâmbătă – Duminică: 10.00 – 14.00",
+        "capacity": 1000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.6723161,
+          47.2617974
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PAȘCANI SC APISTOP VET SRL",
+        "address": "sat Topile, com. Valea Seacă",
+        "contact": {
+          "name": "Emille Bonnard",
+          "phone": "0033630866184",
+          "email": "0722615414, apistopvet@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – As Remember Me"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Sâmbătă: 10.00 – 16.00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7131895,
+          47.0463781
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SAVE OUR PAWS",
+        "address": "sat Poieni, com. Schitu Duca",
+        "contact": {
+          "name": "dr. Stratulat Emma",
+          "phone": "0742392273",
+          "email": "asociatiahelpourpaws.ong@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.saveourpaws.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 09.00 – 17.00",
+        "capacity": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA AJUTOR PENTRU PROTECȚIA ANIMALELOR MAYA",
+        "address": "Tunari, fn, tarla 24, parcela 120/7/1",
+        "contact": {
+          "name": "Voicu Nicoleta",
+          "phone": "0742760573",
+          "email": "un.catalina@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://hopeforcatasstrays.org/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5302369,
+          47.6492651
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIUL LOCAL BAIA MARE – ASOCIAȚIA SALVAȚI ANIMALELE",
+        "address": "Municipiul Baia Mare, strada Iazului, nr. 2",
+        "contact": {
+          "name": "Bohoni Monika",
+          "phone": "0743114488",
+          "email": "office@salvati-animalele.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/ecarisajbaiamare/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00 / Sâmbătă-Duminică: 08.00 – 12.00",
+        "capacity": 417
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.69897,
+          47.66258999999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST BAIA SPRIE",
+        "address": "Primăria Baia Sprie, str. Săsar, nr. 11",
+        "contact": {
+          "name": "Bilt Ioan",
+          "phone": "0746537335",
+          "email": "ecarisaj@baiasprie.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/ecarisaj.baiasprie.1"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni - Vineri 8:00 – 16:00, S-D 08:00 -12:00",
+        "capacity": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8976506,
+          47.927707
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "PRIMĂRIA ORAȘULUI SIGHETU MARMAȚIEI – SERVICIUL DE GESTIONARE CFS",
+        "address": "Municipiul Sighetu Marmației, str. Nicolae Titulescu, FN",
+        "contact": {
+          "name": "Vancea Laurențiu, Zerni Gheorghe",
+          "phone": "0742154890",
+          "email": "0748197803"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – voluntari pentru adapostul sighet"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni - Vineri 8:00 – 16:00, S-D 08:00 -12:00",
+        "capacity": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.6358568,
+          44.6272064
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – PRIMĂRIA DROBETA TR. SEVERIN (S.C. NEGRO STAR SRL)",
+        "address": "Municipiul Drobeta Turnu Severin, str. Serpentina Roșiori, nr. 1-3",
+        "contact": {
+          "name": "dr. Ganea Dorin",
+          "phone": "0752310536",
+          "email": "negrostarcomsrl@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/adapostseverin/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 12.00 – 16.00 / Sâmbătă-Duminică: 10.00 – 12.00",
+        "capacity": 600
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1900559,
+          44.621348
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST STREHAIA – S.C. CHRISTIANA – O ȘANSĂ PENTRU VIITOR S.R.L.",
+        "address": "Oraș Strehaia, strada Republicii nr. 124",
+        "contact": {
+          "name": "dr. Căprărescu Ramona",
+          "phone": "0756805747",
+          "email": "contact@primariastrehaia.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariastrehaia.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 14.00 – 16.00 / Sâmbătă-Duminică: 10.00 – 12.00",
+        "capacity": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0955664,
+          46.4761624
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS PRIMĂRIA LUDUȘ",
+        "address": "Municipiul Luduș, str. Ciocârliei, nr. 1",
+        "contact": {
+          "name": "Popa Liviu",
+          "phone": "0731374209",
+          "email": "adpludus@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/adapostcainifarastapanludus/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni - Vineri 07.00 -15.00",
+        "capacity": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5110979,
+          46.5275518
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUN. TÂRGU-MUREȘ",
+        "address": "Municipiul Târgu Mureș, strada Prutului, nr. 24",
+        "contact": {
+          "name": "Nagy Emilia",
+          "phone": "0724220462",
+          "email": "secretariat@seretirgumures.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://seretirgumures.ro/adapost-caini"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.30 – 18.30",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.700762,
+          46.7710931
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA MUN. REGHIN",
+        "address": "Municipiul Reghin, str. Gării FN",
+        "contact": {
+          "name": "Miron Ștefan",
+          "phone": "0743099111",
+          "email": "office@primariareghin.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariareghin.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 07.00 – 15.00, S-D: 08.00-12.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8687902,
+          46.2369679
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ALBEȘTI – ASOCIAȚIA PENTRU DREPTURILE ANIMALELOR",
+        "address": "Comuna Albești, str. Națională, nr. 67",
+        "contact": {
+          "name": "Monica Fernengel",
+          "phone": "0745754566",
+          "email": "monica_fernengel@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/ADA.Sighisoara"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Sâmbătă: 10.00 – 15.00",
+        "capacity": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5145836,
+          46.64040749999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ANIMAL SHELTER & CARE",
+        "address": "Comuna Ceuașu de Câmpie, nr. 93E",
+        "contact": {
+          "name": "Varga Sandor",
+          "phone": "0740916829",
+          "email": "asociatiaasc@gmail.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni - Vineri: 08-16",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.4038878,
+          46.9057617
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC SALUBRITAS SA (PIATRA NEAMȚ)",
+        "address": "Municipiul Piatra Neamț, str. Gheorghe Doja, nr. 58",
+        "contact": {
+          "name": "Murariu Carmen Maria",
+          "phone": "0755106865",
+          "email": "0746570456, salubritaspn@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.salubritas.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00 / Sâmbătă-Duminică: 08.00 – 14.00",
+        "capacity": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.9771725,
+          45.2889156
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC MUNICIPAL LOCATO SERV SRL (ROMAN)",
+        "address": "Mun. Roman, strada Colectorului, nr. 21",
+        "contact": {
+          "name": "Cozma Ioan",
+          "phone": "0733959067",
+          "email": "directiamunicipallocato@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/pages/category/Community-Organization/Adapost-caini-fara-stapan-Roman-797497350437736/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00, Sâmbătă-Duminică: 08.00 – 10.00",
+        "capacity": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3346148,
+          44.4642709
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASOCIAȚIA PPA PRIETENII NOȘTRI – SLATINA",
+        "address": "Municipiul Slatina, strada Tudor Vladimirescu, nr. 169",
+        "contact": {
+          "name": "Dincă Marin",
+          "phone": "0760702706",
+          "email": "prietenii.nostrii@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 10.00 – 14.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.5012707,
+          44.5946073
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PUBLIC SCORNICEȘTI",
+        "address": "Scornicești, sat Constantinești",
+        "contact": {
+          "name": "Trașcă Florin",
+          "phone": "0249460444",
+          "email": "primariascornicesti@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://primariascornicesti.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 14.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3661901,
+          44.4528365
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – PRIMĂRIA SLATINA",
+        "address": "Mun. Slatina, strada Prunilor, nr. 8",
+        "contact": {
+          "name": "Grămescu Pantelie Gabriel",
+          "phone": "0249707408",
+          "email": "spgcfs.slatina@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://spgcfs-slatina.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 11.00 – 15.30",
+        "capacity": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4764258,
+          43.7705808
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERVICIUL PENTRU GESTIONAREA CFS CORABIA",
+        "address": "Oraș Corabia, strada Traian, nr. 2",
+        "contact": {
+          "name": "Domozină Adrian",
+          "phone": "0249560703",
+          "email": "primariacorabia@primariacorabia.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.adapost.primariacorabia.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.00 – 17.00",
+        "capacity": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1154899,
+          44.3400523
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SERVICIUL PUBLIC DE GESTIONARE CFS - BALȘ",
+        "address": "STRADA PETRE PANDREA, NR 125",
+        "contact": {
+          "name": "Tilea Ionuț",
+          "phone": "0249450145",
+          "email": "adapost.caini@primariabals.eu"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariabals.eu/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.7454693,
+          45.1083394
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – BUCOV",
+        "address": "Comuna Bucov, Calea Daciei nr. 11",
+        "contact": {
+          "name": "Poenaru Dragoș",
+          "phone": "0244275702",
+          "email": "adapostploiesti@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – adapost de caini bucov"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 08.00 – 14.30",
+        "capacity": 4500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST PRIMĂRIA CÂMPINA",
+        "address": "Câmpina, str. Fabricii, FN",
+        "contact": {
+          "name": "Teodoru Mihaela",
+          "phone": "0755035443",
+          "email": "apa_ploiesti@yahoo.fr"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – adapost campina"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 08.00 – 13.00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2261183,
+          45.0007019
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ANCA HELPS ANIMALS",
+        "address": "Loc. Urlați, Str. Gladiolelor nr. 1",
+        "contact": {
+          "name": "Anca Toma",
+          "phone": "0755338047",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – anca helps animals"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0080404,
+          44.9905874
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ERGA OMNES BLEJOI",
+        "address": "Blejoi, parcela 108/95-108/87",
+        "contact": {
+          "name": "Merezeanu Ionuț",
+          "phone": "0736102425",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Dum: 10.00 – 12.00 / 20 câini, 10 pisici",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.031283,
+          45.0223948
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST BOLDEȘTI-SCĂENI",
+        "address": "Oraș Boldești Scăeni, strada Calea Unirii, nr. 1",
+        "contact": {
+          "name": "Emilia Herescu",
+          "phone": "0744363458",
+          "email": "emiliaherescu@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/adapostgestionarecainifarastapan/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 16.00, S-D: 08.00 – 12.00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1013158,
+          44.7795296
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ANIMAL RESCUE POTIGRAFU",
+        "address": "Potigrafu, Puchenii Mari, parcela Ce605/2, nr cadastral 24828",
+        "contact": {
+          "name": "Simon Hahn",
+          "phone": "0732214869",
+          "email": "alex.chirobocea@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.autaiderbichl.com/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.5976732,
+          47.7430935
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA HOPE FOR ROMANIAN STRAYS",
+        "address": "Sat Stăncești, Șoseaua Națională",
+        "contact": {
+          "name": "Aniela Ghiță",
+          "phone": "0725949288",
+          "email": "hopeforstrays@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://ro-ro.facebook.com/pg/Hope4Strays/about/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Dum: 10.00 – 14.00",
+        "capacity": 550
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9548124,
+          44.913473
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST TÂRGȘORUL VECHI",
+        "address": "Comuna Târgșoru Vechi, sat Strejnicu",
+        "contact": {
+          "name": "Ariceșteanu Georgian",
+          "phone": "0763612477",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Dum: 10.00 – 14.00",
+        "capacity": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8746266,
+          47.73459
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA FREE LIFE SATU MARE",
+        "address": "Municipiul Satu Mare, strada Curtuius 1 (Parc Industrial Sud)",
+        "contact": {
+          "name": "Cadariu Carmen",
+          "phone": "0745 521 042",
+          "email": "fratzi65@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://asociatiafreelife.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Sâmbătă 10.00 – 18.00 / Duminică: 10.00-14.00",
+        "capacity": 540
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.064817,
+          47.196846
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS (SC CITADIN SRL) ZALĂU",
+        "address": "Municipiul Zalău, strada Fabricii nr. 28",
+        "contact": {
+          "name": "Gurzău Vasile",
+          "phone": "0260612837",
+          "email": "citadinzalau@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.citadinzalau.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Duminică: 10.00 – 15.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.1449997,
+          45.80347889999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS CONS. LOCAL SIBIU",
+        "address": "Municipiul Sibiu, Str Rachiței FN.",
+        "contact": {
+          "name": "Șerb Ioana Lucia",
+          "phone": "0372743677",
+          "email": "cainifarastapan@sibiu.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.cainifarastapan.sibiu.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3674816,
+          46.1425132
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST GUARDA PET SRL – MEDIAȘ",
+        "address": "Mun. Mediaș, strada Moșnei nr. 90",
+        "contact": {
+          "name": "Szambati Zoltan",
+          "phone": "0744290924",
+          "email": "nelucu.maghiari@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/Animal-Protect-Media%C8%99-113056570114735/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3843398,
+          45.69233740000001
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS CONS. LOCAL AVRIG",
+        "address": "Sat Mârșa (Oraș Avrig), strada Uzinei, FN.",
+        "contact": {
+          "name": "Chialda Cristian Ioan",
+          "phone": "0743239056",
+          "email": "office@primaria-avrig.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primaria-avrig.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PENTRU PROTECȚIA ANIMALELOR ȘI A NATURII CRISTIAN",
+        "address": "loc. Cristian, nr. 18",
+        "contact": {
+          "name": "Dodoc Claudiu",
+          "phone": "0740347036",
+          "email": "clauddiudodoc@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.adapostcainicristian.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.3897422,
+          45.8684111
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC GREEN TREE LEF",
+        "address": "loc. Tichindeal, FN",
+        "contact": {
+          "name": "Stanciu Ionuț",
+          "phone": "0742943020",
+          "email": "greentreelef@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Green Tree Lef"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2732302,
+          47.6634521
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – PRIMĂRIA MUN. SUCEAVA",
+        "address": "Municipiul Suceava, strada Energeticienilor, FN",
+        "contact": {
+          "name": "Eduard Vărzaru",
+          "phone": "0733990660",
+          "email": "0727009689, primsv@primariasv.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.adapostsuceava.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.5773504,
+          47.48481229999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONS. LOCAL CÂMPULUNG MOLDOVENESC (SC UVAVET PET SRL)",
+        "address": "Municipiul Câmpulung Moldovenesc",
+        "contact": {
+          "name": "dr. Ungureanu Vlad",
+          "phone": "0758904304",
+          "email": "uvavet@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://facebook.com/uvavet"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09.30 – 16.30 / Sâmbătă: 10.00 – 14.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1273375,
+          47.74538949999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA CASA LUI PATROCLE",
+        "address": "Com. Dărmănești, Sat Măriței",
+        "contact": {
+          "name": "Roxana Ciornei",
+          "phone": "0755662852",
+          "email": "casaluipatrocle@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/pg/casaluipatrocle/about/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 17.00, S – D 09.00 – 16.00",
+        "capacity": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8855848,
+          47.55251459999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – PRIMĂRIA GURA HUMORULUI",
+        "address": "Gura Humorului, Str. Lunca Boilor fn",
+        "contact": {
+          "name": "Dr Ciornei Emil Petrică",
+          "phone": "0749336650",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0243738,
+          47.5267533
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA IMPERIUL CĂȚEILOR",
+        "address": "Suceava, Berchișești",
+        "contact": {
+          "name": "Țăran Gheorghiță Cătălin",
+          "phone": "0759106176",
+          "email": "unnouinceputonouaviata@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Imperiul Cateilor"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8354327,
+          47.7040799
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SAVE BY THE VET",
+        "address": "Solca",
+        "contact": {
+          "name": "Dumitrescu Elisha",
+          "phone": "0711028089",
+          "email": "savebythevetsolca@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Save by the vet"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 300
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.2732302,
+          47.6634521
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA PRO DOG",
+        "address": "Suceava",
+        "contact": {
+          "name": "Hodorincu Monica",
+          "phone": "0744339774",
+          "email": "prodogsuceava@gmail.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Dog souls"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.344825,
+          43.958886
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ALEXANDRIA – S.C. SERVICIUL SANITAR VETERINAR S.R.L.",
+        "address": "Municipiul Alexandria, strada Dunării, nr. 370 (zona CET)",
+        "contact": {
+          "name": "dr. Petrescu Dorin",
+          "phone": "0729612820",
+          "email": "csvalexandria@yahoo.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Adoptii caini Alexandria"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.30 – 14.00",
+        "capacity": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9828765,
+          44.1181902
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ROȘIORII DE VEDE – S.C. URBIS SERVCONSTRUCT S.R.L.",
+        "address": "Municipiul Roșiori de Vede, strada Republicii nr. 31",
+        "contact": {
+          "name": "Sună Amalia",
+          "phone": "0247466936",
+          "email": "urbis_servrosiori@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook – Adapostul Rosiorii de Vede"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1743598,
+          45.6513008
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC DANYFLOR SRL – ȘAG",
+        "address": "Comuna Șag, DN 59, Km 12+200",
+        "contact": {
+          "name": "Pușcaș Ionel",
+          "phone": "0256395051/0724389288",
+          "email": "danyflorcanisa@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.danyflor.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 18.00",
+        "capacity": 700
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0539176,
+          45.6031962
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA CASA CÂINELUI",
+        "address": "Comuna Peciu Nou, DJ 593, Km 8",
+        "contact": {
+          "name": "Romulus Sale",
+          "phone": "0722943278",
+          "email": "salbastone@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.casa-cainelui.com/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 18.00",
+        "capacity": 350
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1171136,
+          46.63049729999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA FREE AMELY 2007 – TAPIA",
+        "address": "Sat Tapia, nr. 10 (între satele Tapia și Măguri)",
+        "contact": {
+          "name": "Balaj Elena",
+          "phone": "0731973866/0726692964",
+          "email": "info@freeamely.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.freeamely.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 12.00 – 16.00",
+        "capacity": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9069555,
+          45.6817941
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC LITTLE TOYS",
+        "address": "Municipiul Lugoj, strada Plopilor, nr. 22 (Fdt. Traian Vuia 1c)",
+        "contact": {
+          "name": "Homosdean Adela Maria",
+          "phone": "0256705742",
+          "email": "salprest@yahoo.com"
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 10.00 – 12.00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA ANIMAL CARE TEAM",
+        "address": "Libling DE 638, CF 400231",
+        "contact": {
+          "name": "Adriana Tudor",
+          "phone": "0724346123",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/ACT.Timisoara/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.2322208,
+          45.7557559
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SPERANȚA ANIMALELOR",
+        "address": "Timișoara, CF 433828",
+        "contact": {
+          "name": "Nichici Luci Talos",
+          "phone": "0723181636",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://speranta-animalelor.atspace.eu/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST BETTY & TESSA",
+        "address": "V.V. Delamarina, CF 403048",
+        "contact": {
+          "name": "Gyb Elena",
+          "phone": "0748119949",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/pages/category/Nonprofit-Organization/Asociatia-BETTY-TESSA-1532384740341688/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 12.00",
+        "capacity": 400
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.7774583,
+          45.1754939
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC SERVICII PUBLICE SA – TULCEA",
+        "address": "Municipiul Tulcea, strada Combustibilului, nr. 6",
+        "contact": {
+          "name": "Lescai Alina",
+          "phone": "0240515541",
+          "email": "serviciipublice@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.serviciipublicetulcea.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1280143,
+          44.8490769
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC WDR VET GRUP SRL",
+        "address": "Daeni, str. Loturilor, nr. 3",
+        "contact": {
+          "name": "Geambazu Cristian",
+          "phone": "0747782195",
+          "email": "serviciipublice@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook Adapost animale Daeni Tulcea"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.7252398,
+          46.6248356
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC GOSCOM SA – VASLUI",
+        "address": "Municipiul Vaslui, strada Podu Înalt nr. 3",
+        "contact": {
+          "name": "Ghețău Romeo",
+          "phone": "0758062880",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.goscom-vaslui.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 08.00 – 16.00",
+        "capacity": 186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.657218,
+          46.2308281
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST BÂRLAD",
+        "address": "Municipiul Bârlad, strada 1 Decembrie, nr. 21",
+        "contact": {
+          "name": "Zugravu Anca",
+          "phone": "0784777104",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Duminică: 08.00 – 16.00",
+        "capacity": 253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0658372,
+          46.6740322
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS HUȘI – S.C. ECOSALUBRIZARE PREST S.R.L.",
+        "address": "Municipiul Huși, str. Ștefan cel Mare nr. 18",
+        "contact": {
+          "name": "Maxim Carmen",
+          "phone": "0743117479",
+          "email": "salubrizare2005@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://salubrizarehusi.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Duminică: 08.00 – 16.00",
+        "capacity": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2790984,
+          44.8646644
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST ASOCIAȚIA SPRIJINĂ CÂINII BĂLTENI",
+        "address": "loc. Bălteni",
+        "contact": {
+          "name": "Păun Andreea Narcisa",
+          "phone": "0746580612",
+          "email": null
+        },
+        "socialLinks": [
+          {
+            "name": "facebook",
+            "url": "Facebook"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Duminică: 08.00 – 16.00",
+        "capacity": 296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.4220615,
+          45.1011048
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – PRIMĂRIA RÂMNICU VÂLCEA",
+        "address": "Municipiul Râmnicu Vâlcea, str. Fețeni FN (cartier Fețeni)",
+        "contact": {
+          "name": "Ciornei Gheorghe",
+          "phone": "0733988611",
+          "email": "g_ciornei@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariavl.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 470
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2255771,
+          44.9787763
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS – PRIMĂRIA BĂBENI",
+        "address": "Oraș Băbeni, strada Petrolului (limita Frâncești)",
+        "contact": {
+          "name": "dr. Barbuș Ion",
+          "phone": "0745601415/0250765160",
+          "email": "babeni@bl.e-adm.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://orasbabeni.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2717651,
+          44.6484633
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST DRĂGĂȘANI",
+        "address": "Municipiul Drăgășani, strada Livezilor nr. 4",
+        "contact": {
+          "name": "Ștefănescu Ion",
+          "phone": "0371129607",
+          "email": "primaria.dragasani@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "https://www.facebook.com/people/Ad%C4%83postul-c%C3%A2inilor-f%C4%83r%C4%83-st%C4%83p%C3%A2n-Dr%C4%83g%C4%83%C8%99ani/100090068403695/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9734356,
+          45.213299
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST HOREZU",
+        "address": "Oraș Horezu, str. Tudor Vladimirescu, f.n.",
+        "contact": {
+          "name": "dr. Visoiu Mihaela Steliana",
+          "phone": "0738974508",
+          "email": "0738974504, primaria@orasul-horezu.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.orasul-horezu.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 18.00",
+        "capacity": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.184043,
+          45.69647450000001
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CFS CONSILIUL LOCAL FOCȘANI",
+        "address": "Municipiul Focșani, extravilan, T125, P6580",
+        "contact": {
+          "name": "Liciu Constantin",
+          "phone": "0237225618",
+          "email": "dirservpubs@yahoo.com"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://ddspfocsani.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 10.00 – 13.00",
+        "capacity": 320
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.3908745,
+          45.6737331
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST SC VETMEDAN SRL",
+        "address": "Com. Suraia, extravilan, tarla 22, parcela 143",
+        "contact": {
+          "name": "Lazar Daniel",
+          "phone": "0744338976",
+          "email": "contact@vetmedan.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://vetmedan.ro/"
+          }
+        ],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 10.00 – 14.00",
+        "capacity": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.0698026,
+          44.4111446
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOSTUL SPERANȚA",
+        "address": "Str. Petre Ispirescu nr. 2, Popești-Leordeni, Ilfov",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": "Privat",
+        "schedule": "Privat / Luni – Vineri: 09:00 – 17:00",
+        "capacity": 500
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.9892482,
+          44.3818054
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASPA BRAGADIRU",
+        "address": "Gospodărie Agrozootehnică, Bragadiru, Ilfov",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Marți – Sâmbătă: 10:00 – 16:00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8893578,
+          44.3159065
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASPA MIHĂILEȘTI",
+        "address": "Str. Complexului 2A, Mihăilești, Giurgiu",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Marți – Sâmbătă: 10:00 – 16:00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1820956,
+          44.40690499999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ASPA PALLADY (ÎNCHIS TEMPORAR)",
+        "address": "Drumul Lunca Jariștei 34, Sector 3, București",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Marți – Sâmbătă: 10:00 – 16:00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1826483,
+          44.4077036
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOSTUL PRIMĂRIEI CAPITALEI",
+        "address": "Str. Lunca Jariștei, Sector 3, București",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Vineri: 09:00 – 18:00 / Sâmbătă – Duminică: 10:00 – 12:00",
+        "capacity": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.127871,
+          44.44792899999999
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOSTUL SECTORULUI 2",
+        "address": "Str. Chiristigiilor nr. 11-13, Sector 2, București",
+        "contact": {},
+        "socialLinks": [],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Joi: 08:00 – 16:30 / Vineri: 08:00 – 14:00",
+        "capacity": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.030836,
+          44.52269250000001
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST CONSILIU LOCAL SECTOR 1",
+        "address": "Șos. Odăii, nr. 3-5, Sector 1, București",
+        "contact": {
+          "name": "Ene Grațiela",
+          "phone": "0214904007/0762251230",
+          "email": "politiaanimalelor@politialocalasector1.ro"
+        },
+        "socialLinks": [
+          {
+            "name": "website",
+            "url": "http://www.primariasector1.ro/"
+          }
+        ],
+        "shelterType": "Public",
+        "schedule": "Public / Luni – Joi: 08.00 – 16.00 / Vineri: 08.00-14.00",
+        "capacity": 900
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1637749,
+          44.4133907
+        ]
+      },
+      "properties": {
+        "symbol": "dog",
+        "name": "ADĂPOST MAGIC ANIMA ZEN SRL",
+        "address": "Drumul Badicului, nr. cadastral 200801, sector 3 București",
+        "contact": {
+          "name": "Garofița Hoffman",
+          "phone": "0751113817",
+          "email": null
+        },
+        "socialLinks": [],
+        "shelterType": null,
+        "schedule": "Luni – Vineri: 10.00 – 16.00",
+        "capacity": null
+      }
+    }
+  ]
+}
